@@ -1,4 +1,4 @@
-# Schedule a Python script with GitHub Actions
+# Weather forecast github actions
 
 **Watch the video tutorial:**
 
